@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build-env/
+*.csv
+build/
+dist/
+/Cloud_vs_MEC.exe
